@@ -1,0 +1,6 @@
+/root/
+└── git
+    └── openvpn
+        └── roottree.txt
+
+2 directories, 1 file
